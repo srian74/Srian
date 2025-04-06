@@ -30,7 +30,7 @@
 
 ### WORK EXPERIENCE
 #### March 2023 to November 2024 - Kognitiv Corporation (https://www.kognitiv.com)
-* Designed and implemented the corporate knowledge base (https://help.kognitiv.com).
+* Designed and implemented the corporate knowledge base.
 * Prepared the user-facing documentation on Kognitiv products.
 * Reviewed JIRA tickets and interviewed the SMEs to understand the product developments.
 * Reviewed, edited and published expert documents in the knowledge base.
@@ -43,24 +43,32 @@
 * Maintained TravelBox API documentation.
 * Prepared and maintained the documentation of the different versions of TravelBox.
 * Supported the ISO network security certification process.
-* Supported management to create corporate profile document.
+* Prepared corporate profile document.
 
 #### August 2011 to June 2012 - CAM Management Solutions (http://www.cammsgroup.com)
-● Prepare and maintain documentation on CAMMS products.
-● Organizing documentation into a single codebase for easier management.
+* Prepared documentation on CAMMS products.
+* Organized the product documentation into a single codebase for easier management.
+* Provided support to finalize the system change documents.
+* Reviewed and edited test case documents.
+* Prepared system deployment guides.
 
-May 2000 to February 2011 - Motorola Technologies Lanka (Pvt.) Ltd. (http://www.motorola.com)
-● Create documentation for Motorola OEM software and hardware products.
-● Single-sourcing product documentation.
 
-December 1994 to May 2000 - Upali Newspapers Limited (http://www.island.lk)
-● Staff journalist attached to ‘The Island’ newspaper of Upali Newspapers Limited.
-● Wrote news and feature articles on politics, national security, crime, environment, and IT.
-● Compiled the online edition of ‘The Island’ newspaper.
+#### May 2000 to February 2011 - Motorola Technologies Lanka (Pvt.) Ltd. (http://www.motorola.com)
+* Created and maintained the documentation for Motorola devices and OEM software.  
+* Organized the documentat content into a single source.
+* Provided support for ISO systems and software engineering ceritification process.
+* Maintained company HR portal.
+* Proofread the patent applications.
 
-EDUCATION
-D. S. Senanayaka College, Colombo
-● Completed G.C. E. Advanced Level and Ordinary Level examinations.
+#### December 1994 to May 2000 - Upali Newspapers Limited (http://www.island.lk)
+* Staff journalist attached to ‘The Island’ newspaper of Upali Newspapers Limited.
+* Wrote news and feature articles on politics, national security, crime, environment, and IT.
+* Compiled the online edition of ‘The Island’ newspaper.
+
+### EDUCATION
+#### D. S. Senanayaka College, Colombo
+* Completed G.C. E. Advanced Level and Ordinary Level examinations.
+
 I certify that the particulars furnished above are true and accurate.
 S. B. B. Bulathsinhala
-20.03.2025
+07.04.2025
