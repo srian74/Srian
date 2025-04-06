@@ -37,19 +37,27 @@
 * Prepared the release notes for the biweekly product updates.
 
 #### July 2012 to September 2022 - CodeGen International (Pvt.) Ltd. (http://www.codegen.co.uk)
-● Developed the user manuals for TravelBox.
-● Interviewed multiple team members, reviewed solution documents, and researched on hospitality and leisure industry practices to gather the information required for clear-cut documentation.
-● Standardize documentation and enhance the usability of product manuals.
-August 2011 to June 2012 - CAM Management Solutions (http://www.cammsgroup.com)
+* Prepared the user manuals of TravelBox.
+* Reviewed solution documents, interviewed SMEs, tested the product and researched on hospitality and leisure industry practices to gather the information required for clear-cut documentation.
+* Standardized documentation and enhanced the usability of product manuals.
+* Maintained TravelBox API documentation.
+* Prepared and maintained the documentation of the different versions of TravelBox.
+* Supported the ISO network security certification process.
+* Supported management to create corporate profile document.
+
+#### August 2011 to June 2012 - CAM Management Solutions (http://www.cammsgroup.com)
 ● Prepare and maintain documentation on CAMMS products.
 ● Organizing documentation into a single codebase for easier management.
+
 May 2000 to February 2011 - Motorola Technologies Lanka (Pvt.) Ltd. (http://www.motorola.com)
 ● Create documentation for Motorola OEM software and hardware products.
 ● Single-sourcing product documentation.
+
 December 1994 to May 2000 - Upali Newspapers Limited (http://www.island.lk)
 ● Staff journalist attached to ‘The Island’ newspaper of Upali Newspapers Limited.
 ● Wrote news and feature articles on politics, national security, crime, environment, and IT.
 ● Compiled the online edition of ‘The Island’ newspaper.
+
 EDUCATION
 D. S. Senanayaka College, Colombo
 ● Completed G.C. E. Advanced Level and Ordinary Level examinations.
