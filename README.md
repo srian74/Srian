@@ -32,6 +32,7 @@
 #### March 2023 to November 2024 - Kognitiv Corporation (https://www.kognitiv.com)
 * Designed and implemented the corporate knowledge base.
 * Prepared the user-facing documentation on Kognitiv products.
+* Restuctured the static web pages containing the existing documentation.
 * Reviewed JIRA tickets and interviewed the SMEs to understand the product developments.
 * Reviewed, edited and published expert documents in the knowledge base.
 * Prepared the release notes for the biweekly product updates.
@@ -51,7 +52,6 @@
 * Provided support to finalize the system change documents.
 * Reviewed and edited test case documents.
 * Prepared system deployment guides.
-
 
 #### May 2000 to February 2011 - Motorola Technologies Lanka (Pvt.) Ltd. (http://www.motorola.com)
 * Created and maintained the documentation for Motorola devices and OEM software.  
