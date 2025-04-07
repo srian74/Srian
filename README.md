@@ -7,18 +7,16 @@ Srian Bulathsinhala (Technical Writer)
 *****
 ### SUMMARY
 * Technical Writer with 25 years of experience.
-* Skilled in information design and developing strategic approaches to manage documentation deliverables efficiently.
+* Skilled in information design and strategic documentation management.
 * Detail-oriented and goal-driven, committed to delivering high-quality content.
 * Able to quickly grasp complex concepts and translate them into engaging educational material for technical and non-technical audiences.
-* Agile, open-minded, and able to work effectively in teams or independently with minimum supervision.
+* Agile, open-minded, and able to work effectively in teams or independently.
 
 ### SKILLS
 * Content management
 * Information design
-* Audience analysis
-* Gap ananlysis
-* Research
-* Interviewing
+* Audience analysis and gap ananlysis
+* Research and interviewing
 * Simplified Technical English
 * Markdown
 * Usability testing
@@ -26,27 +24,27 @@ Srian Bulathsinhala (Technical Writer)
 ### SUBJECT DOMAINS
 * Point-of-sales (POS)
 * Mobile computing
-* Governance, Risk and Complience
-* Hospitality and Leisure
+* Governance, risk and complience (GRC)
+* Hospitality and leisure
 * Marketing technology
 
 ### WORK EXPERIENCE
 #### March 2023 to November 2024 - Kognitiv Corporation (https://www.kognitiv.com)
 * Designed and implemented the corporate knowledge base.
 * Prepared the user-facing documentation on Kognitiv products.
-* Restuctured the static web pages containing the existing documentation.
-* Reviewed JIRA tickets and interviewed the SMEs to understand the product developments.
+* Gathered information by reviewing JIRA tickets, interviewing SMEe, testing and through research.
+* Updated documentation and prepared the release notes for the biweekly product updates.
 * Reviewed, edited and published expert documents in the knowledge base.
-* Prepared the release notes for the biweekly product updates.
+* Restuctured static web site containing the existing documentation.
 
 #### July 2012 to September 2022 - CodeGen International (Pvt.) Ltd. (http://www.codegen.co.uk)
 * Prepared the user manuals of TravelBox.
-* Reviewed solution documents, interviewed SMEs, tested the product and researched on hospitality and leisure industry practices to gather the information required for clear-cut documentation.
-* Standardized documentation and enhanced the usability of product manuals.
+* Gathered information from solution documents, SME interviews, research and by testing.
+* Standardized documentation and enhanced the usability of the product manuals.
 * Maintained TravelBox API documentation.
-* Prepared and maintained the documentation of the different versions of TravelBox.
+* Created and maintained the documentation repository.
 * Supported the ISO network security certification process.
-* Prepared corporate profile document.
+* Prepared corporate profile documents.
 
 #### August 2011 to June 2012 - CAM Management Solutions (http://www.cammsgroup.com)
 * Prepared documentation on CAMMS products.
@@ -77,4 +75,4 @@ I certify that the particulars furnished above are true and accurate.
 
 
 S. B. B. Bulathsinhala
-07.04.2025
+08.04.2025
