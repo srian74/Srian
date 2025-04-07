@@ -70,6 +70,10 @@
 #### D. S. Senanayaka College, Colombo
 * Completed G.C. E. Advanced Level and Ordinary Level examinations.
 
+
+
 I certify that the particulars furnished above are true and accurate.
+
+
 S. B. B. Bulathsinhala
 07.04.2025
