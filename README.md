@@ -11,11 +11,12 @@ Srian Bulathsinhala (Technical Writer)
 * Detail-oriented and goal-driven, committed to delivering high-quality content.
 * Able to quickly grasp complex concepts and translate them into engaging educational material for technical and non-technical audiences.
 * Agile, open-minded, and able to work effectively in teams or independently.
+* Avid learner striving to update and upgrade skill set.
 
 ### SKILLS
 * Content management
 * Information design
-* Audience analysis and gap ananlysis
+* Audience analysis and gap analysis
 * Research and interviewing
 * Simplified Technical English
 * Markdown
@@ -24,7 +25,7 @@ Srian Bulathsinhala (Technical Writer)
 ### SUBJECT DOMAINS
 * Point-of-sales (POS)
 * Mobile computing
-* Governance, risk and complience (GRC)
+* Governance, risk and compliance (GRC)
 * Hospitality and leisure
 * Marketing technology
 
@@ -32,14 +33,14 @@ Srian Bulathsinhala (Technical Writer)
 #### March 2023 to November 2024 - Kognitiv Corporation (https://www.kognitiv.com)
 * Designed and implemented the corporate knowledge base.
 * Prepared the user-facing documentation on Kognitiv products.
-* Gathered information by reviewing JIRA tickets, interviewing SMEe, testing and through research.
+* Gathered information by reviewing JIRA tickets, interviewing SMEs, testing, and through research.
 * Updated documentation and prepared the release notes for the biweekly product updates.
-* Reviewed, edited and published expert documents in the knowledge base.
-* Restuctured static web site containing the existing documentation.
+* Reviewed, edited, and published expert documents in the knowledge base.
+* Restructured the existing documentation to incorporate the search feature.
 
 #### July 2012 to September 2022 - CodeGen International (Pvt.) Ltd. (http://www.codegen.co.uk)
 * Prepared the user manuals of TravelBox.
-* Gathered information from solution documents, SME interviews, research and by testing.
+* Gathered information from solution documents, SME interviews, research, and through testing.
 * Standardized documentation and enhanced the usability of the product manuals.
 * Maintained TravelBox API documentation.
 * Created and maintained the documentation repository.
@@ -55,8 +56,8 @@ Srian Bulathsinhala (Technical Writer)
 
 #### May 2000 to February 2011 - Motorola Technologies Lanka (Pvt.) Ltd. (http://www.motorola.com)
 * Created and maintained the documentation for Motorola devices and OEM software.  
-* Organized the documentat content into a single source.
-* Provided support for ISO systems and software engineering ceritification process.
+* Organized the documentation content into a single source.
+* Provided support for ISO systems and software engineering certification process.
 * Maintained company HR portal.
 * Proofread the patent applications.
 
@@ -67,12 +68,12 @@ Srian Bulathsinhala (Technical Writer)
 
 ### EDUCATION
 #### D. S. Senanayaka College, Colombo
-* Completed G.C. E. Advanced Level and Ordinary Level examinations.
+* Completed G.C.E. Advanced Level and Ordinary Level examinations.
 
 
 
-I certify that the particulars furnished above are true and accurate.
+I certify that the particulars included above are true and accurate.
 
 
 S. B. B. Bulathsinhala
-08.04.2025
+30.04.2025
