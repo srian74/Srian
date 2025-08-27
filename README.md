@@ -2,7 +2,7 @@ Srian Bulathsinhala (Technical Writer)
 ============
 ##### Address: 423F, Akuregoda Road, Pelawatta, Battaramulla, Sri Lanka
 ##### Mobile: +94777598760
-##### Email: srianb@yahoo.com
+##### Email: srianb@yahoo.com/srianb@gmail.com
 ##### LinkedIn: www.linkedin.com/in/srian-buvaneka-bulathsinhala-61419043
 *****
 ### SUMMARY
